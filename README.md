@@ -4,9 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3umish&langs_count=8)](https://github.com/S3umish/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3umish&layout=compact)](https://github.com/S3umish/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3umish&layout=compact)](https://github.com/S3umish/github-readme-stats)
 
-![Sunitee’s GitHub stats](https://github-readme-stats.vercel.app/api?username=S3umish&show_icons=true&theme=radical)
+![Sunitee’s GitHub stats](https://github-readme-stats.vercel.app/api?username=S3umish&show_icons=true&theme=radical) -->
 
 
 <!--
